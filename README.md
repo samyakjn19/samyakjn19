@@ -15,7 +15,7 @@ Specializing in architecting production-grade **Autonomous Multi-Agent Systems**
 ---
 
 ### 🔭 Featured Systems & Architecture
-- 🤖 **Enterprise Multi-Agent Workflow Engine:** A hierarchical agentic system using LangGraph (Planner, Executor, Critic) with MCP tool invocation and self-healing loops.
+- 🤖 - 🤖 [**Agentic Resolution Engine (ARE)**](https://github.com/samyakjn19/Agentic-Resolution-Engine-ARE-): An agentic AI framework orchestrating log analysis, database checks, knowledge retrieval, and multi-step reasoning for automated incident resolution.
 - ⚡ **Production-Grade RAG Pipeline:** Semantic chunking with Milvus hybrid vector search and PostgreSQL metadata filtering.
 
 ---
