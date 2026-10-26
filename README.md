@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Samyak Jain 👋
+### GenAI / Backend Engineer
 
-<!--
-**samyakjn19/samyakjn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in architecting production-grade **Autonomous Multi-Agent Systems**, **Enterprise RAG pipelines**, and high-throughput **Spring Boot / Python Microservices**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Core Competencies
+
+- **AI & Agentic Systems:** LangGraph, LangChain, Model Context Protocol (MCP), RAG, Multi-Agent Orchestration, Vector Search (Milvus), Structured Outputs (Pydantic).
+- **Backend & Distributed Systems:** Python (FastAPI, Asyncio), Java (8/11/17), Spring Boot, REST APIs, Apache Kafka, Microservices.
+- **Databases & Vector Stores:** Milvus, PostgreSQL (pgvector), Redis, MySQL.
+- **DevOps & Cloud:** Docker, Kubernetes, CI/CD (Jenkins), Maven, Gradle.
+
+---
+
+### 🔭 Featured Systems & Architecture
+- 🤖 **Enterprise Multi-Agent Workflow Engine:** A hierarchical agentic system using LangGraph (Planner, Executor, Critic) with MCP tool invocation and self-healing loops.
+- ⚡ **Production-Grade RAG Pipeline:** Semantic chunking with Milvus hybrid vector search and PostgreSQL metadata filtering.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/samyakjain1901](https://www.linkedin.com/in/samyakjain1901)
+- **Email:** samyakjn000@gmail.com
